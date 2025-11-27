@@ -1,4 +1,4 @@
-# Automated CI/CD Pipeline for QR Code Management
+# Automated CI/CD Pipeline for QR Code Management System
 
 ## Overview
 
