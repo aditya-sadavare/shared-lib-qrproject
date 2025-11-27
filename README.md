@@ -1,6 +1,6 @@
 # Automated CI/CD Pipeline for QR Code Management System
 
-## Overview
+## Overview Of Project
 
 This project demonstrates an automated CI/CD pipeline for a QR code management system using Docker, Jenkins, GitHub Actions, a Groovy Shared Library, webhooks, and multistage pipelines.
 
@@ -24,7 +24,7 @@ This project demonstrates an automated CI/CD pipeline for a QR code management s
 ## Agent-Master Architecture
 
 - **Jenkins Master**: This is the central server where Jenkins is installed. It manages the build process, schedules jobs, and handles the user interface.
-- **Jenkins Agent**: This is a separate machine or container where Docker is installed. The agent executes the build, test, and deployment tasks delegated by the Jenkins Master. This separation helps scale builds and isolates environments.
+- **Jenkins Agent**: This is a separate machine or container where Docker is installed. The agent executes the build, test, and deployment tasks delegated by the Jenkins Master. This separation helps scale builds and isolates environment.
 
 ## Docker Network & Volumes
 
